@@ -1,6 +1,16 @@
-# Create T3 App
+# Nexus Seed UI
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+
+This starter kit for an app that uses Savantly Nexus.  
+
+## TLDR;
+```
+npm install
+npm run dev
+```
+
+![demo ui](./docs/demo.png)
 
 ## What's next? How do I make an app with this?
 
